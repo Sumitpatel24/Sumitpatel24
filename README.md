@@ -58,12 +58,20 @@ I am an MCA student passionate about building responsive and scalable web applic
 - MySQL Database
 - Flask Backend
 
+- 🔗 Repository: https://github.com/Sumitpatel24/music-streaming-system
+
+🌐 Live Demo: https://portfolio-omega-snowy-14.vercel.app
+
 ### 💰 AI Smart Expense Tracker
 - Expense Management
 - Budget Tracking
 - Receipt Upload
 - PDF & Excel Export
 - Analytics Dashboard
+
+- 🔗 Repository: https://github.com/Sumitpatel24/AI-Smart-Expense-Tracker
+
+🌐 Live Demo: https://portfolio-omega-snowy-14.vercel.app
 
 ### 🏥 Hospital Management System
 - Patient Management
@@ -72,6 +80,10 @@ I am an MCA student passionate about building responsive and scalable web applic
 - Billing System
 - Admin Panel
 
+- 🔗 Repository: https://github.com/Sumitpatel24/Hospital-Management-System
+
+🌐 Live Demo: https://portfolio-omega-snowy-14.vercel.app
+
 ### 🌐 Personal Portfolio
 Responsive portfolio website showcasing projects, skills, resume and contact information.
 
@@ -79,12 +91,20 @@ Responsive portfolio website showcasing projects, skills, resume and contact inf
 
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sumitpatel24&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumitpatel24&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+ ## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sumitpatel24&theme=github-dark)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumitpatel24&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitpatel24&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
-## ⭐ Thanks for visiting my profile!
+## 🤝 Let's Connect
+
+If you like my work or have internship opportunities, feel free to connect with me.
+
+⭐ Don't forget to star my repositories!
