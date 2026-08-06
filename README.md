@@ -19,9 +19,9 @@ I am an MCA student passionate about building responsive and scalable web applic
 
 ## 💼 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/sumit-patel-08a628383
-- GitHub: https://github.com/Sumitpatel24
-- Email: sumitpatelofficial05@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sumit-patel-08a628383
+- 💻 GitHub: https://github.com/Sumitpatel24
+- 📧 Email: sumitpatelofficial05@gmail.com
 
 ---
 
@@ -79,12 +79,11 @@ Responsive portfolio website showcasing projects, skills, resume and contact inf
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumitpatel24&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumitpatel24&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitpatel24&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitpatel24&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sumitpatel24)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Sumitpatel24&theme=github-dark)
 
 ---
 
