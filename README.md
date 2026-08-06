@@ -79,9 +79,9 @@ Responsive portfolio website showcasing projects, skills, resume and contact inf
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumitpatel24&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitpatel24&layout=compact&theme=github_dark)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sumitpatel24&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumitpatel24&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sumitpatel24&theme=github-dark)
 
