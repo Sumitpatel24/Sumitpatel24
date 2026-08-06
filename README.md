@@ -83,6 +83,8 @@ Responsive portfolio website showcasing projects, skills, resume and contact inf
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitpatel24&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Sumitpatel24&theme=tokyonight)
+
 
 ---
 
