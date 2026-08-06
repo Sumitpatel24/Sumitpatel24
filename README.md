@@ -60,8 +60,6 @@ I am an MCA student passionate about building responsive and scalable web applic
 
 - 🔗 Repository: https://github.com/Sumitpatel24/music-streaming-system
 
-🌐 Live Demo: https://portfolio-omega-snowy-14.vercel.app
-
 ### 💰 AI Smart Expense Tracker
 - Expense Management
 - Budget Tracking
@@ -71,8 +69,6 @@ I am an MCA student passionate about building responsive and scalable web applic
 
 - 🔗 Repository: https://github.com/Sumitpatel24/AI-Smart-Expense-Tracker
 
-🌐 Live Demo: https://portfolio-omega-snowy-14.vercel.app
-
 ### 🏥 Hospital Management System
 - Patient Management
 - Doctor Management
@@ -81,8 +77,6 @@ I am an MCA student passionate about building responsive and scalable web applic
 - Admin Panel
 
 - 🔗 Repository: https://github.com/Sumitpatel24/Hospital-Management-System
-
-🌐 Live Demo: https://portfolio-omega-snowy-14.vercel.app
 
 ### 🌐 Personal Portfolio
 Responsive portfolio website showcasing projects, skills, resume and contact information.
